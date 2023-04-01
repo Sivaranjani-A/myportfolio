@@ -1,6 +1,7 @@
 import pro1 from "../assets/project1.png";
 import pro2 from "../assets/project2.png";
 import pro3 from "../assets/project3.png";
+import pro4 from "../assets/project4.png";
 
 
 
@@ -27,5 +28,12 @@ const ProjectCardData = [
         view: "https://beautiful-manatee-18088e.netlify.app/",
         source: "https://github.com/Sivaranjani-A/stackoverflowclone-frontend"
     },
+    {
+        imgsrc: pro4,
+        title: "BLOG APP",
+        text: "It’s a simple blog app.User can add blog,edit blog and also delete blog.",
+        view: "https://cheery-cranachan-d79d30.netlify.app/",
+        source: "https://github.com/Sivaranjani-A/blogapp_frontend"
+    }
 ]
 export default ProjectCardData;
