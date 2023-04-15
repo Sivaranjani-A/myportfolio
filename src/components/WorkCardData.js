@@ -7,6 +7,7 @@ const ProjectCardData = [
   {
     imgsrc: pro2,
     title: "MOVIE APP",
+    skills: "React,Materialui,Formik,Node,MongoDb,nodemailer",
     text: "The purpose of the movie app is user can add movie,edit movie,delete movie. All the CRUD operations are performed.",
     view: "https://rococo-kulfi-f09a3a.netlify.app/",
     source: "https://github.com/Sivaranjani-A/react-movie-poster",
@@ -15,6 +16,7 @@ const ProjectCardData = [
   {
     imgsrc: pro3,
     title: "LIBRARY MANAGEMENT",
+    skills: "React,Bootstrap,Formik,Yup,axios",
     text: "It is a simple library management app.Login as a public,can view books,borrow books and return it.Login as a librarian add books,view customer details.",
     view: "https://splendorous-cocada-ab437d.netlify.app/",
     source: "https://github.com/Sivaranjani-A/react-library_management",
@@ -22,6 +24,7 @@ const ProjectCardData = [
   {
     imgsrc: pro1,
     title: "STACK OVERFLOW CLONE",
+    skills: "React,Bootstrap,Formik,axios,Node,MongoDb,nodemailer",
     text: "It’s a simple stack overflow clone app, user can search answers and vote answers and also post answers using keyword",
     view: "https://beautiful-manatee-18088e.netlify.app/",
     source: "https://github.com/Sivaranjani-A/stackoverflowclone-frontend",
@@ -29,6 +32,7 @@ const ProjectCardData = [
   {
     imgsrc: pro4,
     title: "BLOG APP",
+    skills: "React,Bootstrap,Flowbite,Formik,redux,Node,MongoDb,nodemailer",
     text: "It’s a simple blog app.User can add blog,edit blog and also delete blog.",
     view: "https://cheery-cranachan-d79d30.netlify.app/",
     source: "https://github.com/Sivaranjani-A/blogapp_frontend",

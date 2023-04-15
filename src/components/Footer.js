@@ -59,15 +59,6 @@ const Footer = () => {
                 style={{ color: "#fff", marginRight: "1rem" }}
               />
             </NavLink>
-            <NavLink
-              to="https://www.instagram.com/sree731997/?next=%2F"
-              target="blank"
-            >
-              <FaInstagram
-                size={20}
-                style={{ color: "#fff", marginRight: "1rem" }}
-              />
-            </NavLink>
           </div>
         </div>
       </div>
